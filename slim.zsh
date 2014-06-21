@@ -4,6 +4,8 @@ prompt pure
 autoload -U compinit
 compinit
 
+export CLICOLOR=1
+
 slim_path=`dirname $0`
 source $slim_path/keys.zsh
 source $slim_path/history.zsh
