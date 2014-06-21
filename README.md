@@ -15,3 +15,8 @@ fpath=( "$HOME/.slimzsh" $fpath )
 source "$HOME/.slimzsh/slim.zsh"
 ```
 
+
+## fasd
+I highly recommend you using [fasd](https://github.com/clvv/fasd).
+Slimzsh will automaically detect it if you have it installed.
+
