@@ -26,8 +26,10 @@ Slimzsh has
 ![alt text](http://i.imgur.com/wY25hkn.png "Syntax Highlighting")
 
 
-
 ## fasd
 I highly recommend you using [fasd](https://github.com/clvv/fasd).
 Slimzsh will automaically detect it if you have it installed.
 
+Then you'll be able to search inline for the best matching file like here
+![alt text](http://i.imgur.com/s2LeC9K.gif "FASD")
+and so much more!
