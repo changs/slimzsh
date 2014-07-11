@@ -3,7 +3,7 @@
 git clone --recursive git@github.com:changs/slimzsh.git ~/.slimzsh
 
 if [ -f ~/.zshrc ]; then
-	~/.zshrc >> ~/.zshrc_backup    
+	cp ~/.zshrc ~/.zshrc_backup    
 fi;
 
 'source "$HOME/.slimzsh/slim.zsh"' >> ~/.zshrc
