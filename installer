@@ -6,4 +6,4 @@ if [ -f ~/.zshrc ]; then
 	cp ~/.zshrc ~/.zshrc_backup    
 fi;
 
-'source "$HOME/.slimzsh/slim.zsh"' >> ~/.zshrc
+echo 'source "$HOME/.slimzsh/slim.zsh"' >> ~/.zshrc
