@@ -7,3 +7,5 @@ if [ -f ~/.zshrc ]; then
 fi;
 
 echo 'source "$HOME/.slimzsh/slim.zsh"' >> ~/.zshrc
+
+echo "It's almost done! If you have not used zsh earlier then you need set default shell to ZSH by running chsh -s /bin/zsh"
