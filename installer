@@ -2,7 +2,7 @@
 
 git clone --recursive git@github.com:changs/slimzsh.git ~/.slimzsh
 
-if [ ! -f ~/.zshrc ]; then
+if [ -f ~/.zshrc ]; then
 	~/.zshrc >> ~/.zshrc_backup    
 fi;
 
