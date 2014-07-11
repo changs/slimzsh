@@ -1,4 +1,9 @@
 #!/usr/bin/env bash
 
 git clone --recursive git@github.com:changs/slimzsh.git ~/.slimzsh
-source "$HOME/.slimzsh/slim.zsh"
+
+if [ ! -f ~/.zshrc ]; then
+	~/.zshrc >> ~/.zshrc_backup    
+fi;
+
+"source \"$HOME/.slimzsh/slim.zsh\"" >> ~/.zshrc
