@@ -1,5 +1,3 @@
 #!/usr/bin/env bash
 
-if [ ! -d ~/.zshrc ]; then
-    mkdir -p ~/.zshrc;
-fi;
+git clone --recursive git@github.com:changs/slimzsh.git ~/.slimzsh
