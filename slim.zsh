@@ -7,6 +7,9 @@ prompt pure
 autoload -U compinit
 compinit
 
+setopt autocd
+setopt extendedglob
+
 export CLICOLOR=1
 
 source $slim_path/keys.zsh
