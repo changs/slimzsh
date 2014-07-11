@@ -6,4 +6,4 @@ if [ ! -f ~/.zshrc ]; then
 	~/.zshrc >> ~/.zshrc_backup    
 fi;
 
-'source \"$HOME/.slimzsh/slim.zsh\"' >> ~/.zshrc
+'source "$HOME/.slimzsh/slim.zsh"' >> ~/.zshrc
