@@ -1,3 +1,6 @@
+slim_path=`dirname $0`
+fpath=( $slim_path $fpath )
+
 autoload -U promptinit && promptinit
 prompt pure
 
@@ -6,7 +9,6 @@ compinit
 
 export CLICOLOR=1
 
-slim_path=`dirname $0`
 source $slim_path/keys.zsh
 source $slim_path/history.zsh
 source $slim_path/completion.zsh
