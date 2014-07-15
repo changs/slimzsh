@@ -40,6 +40,6 @@ and so much more!
 
 ## Tips
 
-The theme used in screenshots: ![alt text](https://github.com/chriskempson/tomorrow-theme "Tomorrow Night Eighties")
+The theme used in screenshots: [Tomorrow Night Eighties](https://github.com/chriskempson/tomorrow-theme)
 with the Ubuntu Mono 15pt font.
 
