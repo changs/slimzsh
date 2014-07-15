@@ -37,3 +37,9 @@ Then you'll be able to search inline for the best matching file like here:
 ![alt text](http://i.imgur.com/s2LeC9K.gif "FASD")
 
 and so much more!
+
+## Tips
+
+The theme used in screenshots: ![alt text](https://github.com/chriskempson/tomorrow-theme "Tomorrow Night Eighties")
+with the Ubuntu Mono 15pt font.
+
