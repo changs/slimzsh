@@ -13,3 +13,9 @@ alias gl='git pull'
 alias gp='git push'
 alias gpp='git pull; git push'
 alias gwc='git whatchanged -p --abbrev-commit --pretty=medium'
+
+# SOURCE CUSTOM ALIASES
+
+if [[ -f ~/.slimzsh/aliases.zsh.local ]]; then
+ source ~/.slimzsh/aliases.zsh.local
+fi ]

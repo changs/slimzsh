@@ -38,6 +38,11 @@ Then you'll be able to search inline for the best matching file like here:
 
 and so much more!
 
+## Local modifications
+
+1. if you want to add custom aliases, create `~/.slimzsh/aliases.zsh.local` file
+   and put them there - this file will be automatically sourced.
+
 ## Tips
 
 The theme used in screenshots: [Tomorrow Night Eighties](https://github.com/chriskempson/tomorrow-theme)
