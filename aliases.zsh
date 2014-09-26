@@ -1,7 +1,7 @@
 # UTILITY
 
 alias less='less -R'
-alias grep='grep --color=always'
+alias grep='grep --color=auto'
 alias ..='cd ../'
 
 # GIT
