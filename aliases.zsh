@@ -16,6 +16,6 @@ alias gwc='git whatchanged -p --abbrev-commit --pretty=medium'
 
 # SOURCE CUSTOM ALIASES
 
-if [[ -f ~/.slimzsh/aliases.zsh.local ]]; then
- source ~/.slimzsh/aliases.zsh.local
-fi ]
+if [[ -f $slim_path/aliases.zsh.local ]]; then
+  source $slim_path/aliases.zsh.local
+fi
