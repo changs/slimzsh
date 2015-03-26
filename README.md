@@ -29,7 +29,7 @@ Slimzsh has:
 
 ## fasd
 
-I highly recommend you using [fasd](https://github.com/clvv/fasd).
+I highly recommend using [fasd](https://github.com/clvv/fasd).
 Slimzsh will automatically detect it if you have it installed.
 
 Then you'll be able to search inline for the best matching file like here:
