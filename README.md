@@ -6,7 +6,7 @@ A small, usable configuration for ZSH
 # Install
 
 ```
-git clone --recursive git@github.com:changs/slimzsh.git ~/.slimzsh
+git clone --recursive https://github.com/changs/slimzsh.git ~/.slimzsh
 ```
 
 Add following to `~/.zshrc`
