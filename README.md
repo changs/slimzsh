@@ -1,7 +1,8 @@
 slimzsh
 =======
 
-A small, usable configuration for ZSH
+A small, usable configuration for ZSH. 
+It enables all the awesomeness of ZSH with small and tidy config. 
 
 # Install
 
