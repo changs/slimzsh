@@ -9,6 +9,7 @@ compinit
 
 setopt autocd
 setopt extendedglob
+setopt NO_NOMATCH
 
 export CLICOLOR=1
 
