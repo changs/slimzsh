@@ -1,3 +1,6 @@
 [submodule "pure"]
 	path = pure
 	url = https://github.com/sindresorhus/pure.git
+[submodule "fast-syntax-highlighting"]
+	path = fast-syntax-highlighting
+	url = https://github.com/zdharma/fast-syntax-highlighting.git
