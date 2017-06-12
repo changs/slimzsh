@@ -21,7 +21,7 @@ source "$HOME/.slimzsh/slim.zsh"
 Slimzsh has:
 
 * beautiful [pure](https://github.com/sindresorhus/pure) as a shell prompt
-* [syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+* [syntax highlighting](https://github.com/zdharma/fast-syntax-highlighting)
 * tab completion for commands and args (with switching menu and help)
 
 ![alt text](http://i.imgur.com/sVJOSOU.png "Tab Completion")
