@@ -1,8 +1,9 @@
-slimzsh
+ltzsh Zsh
 =======
 
-A small, usable configuration for ZSH. 
-It enables all the awesomeness of ZSH with a small and tidy config. 
+Base on ![slimzsh](https://github.com/changs/slimzsh) a small, usable configuration for ZSH.
+This fork builds on the fast and elegant base of Slimzsh, but offers improved history substring search similar to Oh-my-zsh's.
+
 
 # Install
 
@@ -42,10 +43,10 @@ and so much more!
 
 ## Local modifications
 
-1. if you want to add custom aliases, create `~/.slimzsh/aliases.zsh.local` file
+1. if you want to add custom aliases, create `~/.ltzsh/aliases.zsh.local` file
    and put them there - this file will be automatically sourced.
 
 ## Tips
 
-The theme used in screenshots is PencilDark with the IBM Plex Mono font.
-
+The theme used in screenshots: [Tomorrow Night Eighties](https://github.com/chriskempson/tomorrow-theme)
+with the Ubuntu Mono 15pt font.
