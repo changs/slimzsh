@@ -1,4 +1,4 @@
-ltzsh Zsh
+ltzsh
 =======
 
 Base on ![slimzsh](https://github.com/changs/slimzsh) a small, usable configuration for ZSH.
