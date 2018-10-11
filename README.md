@@ -19,7 +19,7 @@ source "$HOME/.ltzsh/ltzsh.zsh"
 
 # Features
 
-Slimzsh has:
+ltzsh has:
 
 * beautiful [pure](https://github.com/sindresorhus/pure) as a shell prompt
 * [syntax highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting)
