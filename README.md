@@ -46,6 +46,5 @@ and so much more!
 
 ## Tips
 
-The theme used in screenshots: [Tomorrow Night Eighties](https://github.com/chriskempson/tomorrow-theme)
-with the Ubuntu Mono 15pt font.
+The theme used in screenshots is PencilDark with the IBM Plex Mono font.
 
