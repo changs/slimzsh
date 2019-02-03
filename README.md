@@ -24,8 +24,8 @@ Slimzsh has:
 * [syntax highlighting](https://github.com/zdharma/fast-syntax-highlighting)
 * tab completion for commands and args (with switching menu and help)
 
-![alt text](http://i.imgur.com/sVJOSOU.png "Tab Completion")
-![alt text](http://i.imgur.com/wY25hkn.png "Syntax Highlighting")
+![alt text](https://user-images.githubusercontent.com/86694/52179811-0f561200-27df-11e9-8346-a332433df169.png "Tab Completion")
+![alt text](https://user-images.githubusercontent.com/86694/52179812-0f561200-27df-11e9-8669-6b2683295eee.png "Syntax Highlighting)
 
 
 ## fasd
