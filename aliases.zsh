@@ -3,6 +3,7 @@
 alias less='less -R'
 alias grep='grep --color=auto'
 alias ..='cd ../'
+alias ls='ls -l'
 
 # GIT
 
