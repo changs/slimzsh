@@ -2,7 +2,7 @@ slimzsh
 =======
 
 A small, usable configuration for ZSH. 
-It enables all the awesomeness of ZSH with small and tidy config. 
+It enables all the awesomeness of ZSH with a small and tidy config. 
 
 # Install
 
@@ -23,6 +23,7 @@ Slimzsh has:
 * beautiful [pure](https://github.com/sindresorhus/pure) as a shell prompt
 * [syntax highlighting](https://github.com/zdharma/fast-syntax-highlighting)
 * tab completion for commands and args (with switching menu and help)
+* all ZSH's awsomness enabled
 
 ![alt text](https://user-images.githubusercontent.com/86694/52179811-0f561200-27df-11e9-8346-a332433df169.png "Syntax Highlighting")
 ![alt text](https://user-images.githubusercontent.com/86694/52179812-0f561200-27df-11e9-8669-6b2683295eee.png "Tab completion")
