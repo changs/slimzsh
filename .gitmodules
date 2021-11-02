@@ -3,4 +3,4 @@
 	url = https://github.com/sindresorhus/pure.git
 [submodule "fast-syntax-highlighting"]
 	path = fast-syntax-highlighting
-	url = https://github.com/zdharma/fast-syntax-highlighting.git
+	url = https://github.com/zdharma-continuum/fast-syntax-highlighting.git
