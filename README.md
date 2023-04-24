@@ -7,13 +7,13 @@ It enables all the awesomeness of ZSH with a small and tidy config.
 # Install
 
 ```
-git clone --recursive https://github.com/changs/slimzsh.git ~/.slimzsh
+git clone --recursive git@github.com:edalee/ltzsh.git
 ```
 
 Add following to `~/.zshrc`
 
 ```
-source "$HOME/.slimzsh/slim.zsh"
+source "$HOME/.ltzsh/ltzsh.zsh"
 ```
 
 # Features
