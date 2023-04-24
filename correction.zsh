@@ -4,4 +4,5 @@ alias mv='nocorrect mv'
 alias mkdir='nocorrect mkdir'
 alias gist='nocorrect gist'
 alias sudo='nocorrect sudo'
+alias flake8='nocorrect flake8'
 
